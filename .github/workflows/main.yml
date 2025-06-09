@@ -1,0 +1,41 @@
+name: Daily Thought Update
+
+on:
+  schedule:
+    # Runs at 8:00 AM IST every day.
+    # IST is UTC+5:30. So, 8:00 AM IST is 2:30 AM UTC.
+    - cron: '30 2 * * *'
+  workflow_dispatch: # Allows you to manually trigger the workflow from GitHub UI
+
+jobs:
+  update-thought:
+    runs-on: ubuntu-latest
+    permissions: # Add this block
+      contents: write # This grants the GITHUB_TOKEN permission to push changes
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if any)
+        run: |
+          # Add any pip installs your script needs, e.g.,
+          # pip install requests
+
+      - name: Configure Git for Contribution
+        run: |
+          git config user.name "Kartikeya-Ambare"
+          git config user.email "ambarekartikeya2505@gmail.com"
+
+      - name: Run Python script to update README
+        run: python update_thought.py
+
+      - name: Commit and push if changes exist
+        run: |
+          git diff --exit-code || (git add README.md && git commit -m "✨ Daily Thought Update: $(date +'%Y-%m-%d')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
