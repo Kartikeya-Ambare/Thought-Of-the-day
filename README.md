@@ -8,7 +8,7 @@ _Your daily spark of wisdom!_
 
 ### 💬 Today's Insight:
 ```
-> The only way to do great work is to love what you do. ❤️ - Steve Jobs
+> Happiness is as exclusive as a butterfly, and you must never pursue it. If you stay very still, it may come and settle on your hand. But only briefly. ❤️ - Ruskin Bond
 ```
 
 --- 
