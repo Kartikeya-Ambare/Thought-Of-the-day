@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-09**
+## 🗓️ Date: **2025-06-10**
 
 ### 💬 Today's Insight:
 ```
-> Happiness is as exclusive as a butterfly, and you must never pursue it. If you stay very still, it may come and settle on your hand. But only briefly. ❤️ - Ruskin Bond
+> To be, or not to be, that is the question. ❤️ - William Shakespeare
 ```
 
 --- 
