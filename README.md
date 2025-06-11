@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-10**
+## 🗓️ Date: **2025-06-11**
 
 ### 💬 Today's Insight:
 ```
-> To be, or not to be, that is the question. ❤️ - William Shakespeare
+> The only way to do great work is to love what you do. ❤️ - Steve Jobs
 ```
 
 --- 
