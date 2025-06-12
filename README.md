@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-11**
+## 🗓️ Date: **2025-06-12**
 
 ### 💬 Today's Insight:
 ```
-> The only way to do great work is to love what you do. ❤️ - Steve Jobs
+> The future belongs to those who believe in the beauty of their dreams. ❤️ - Eleanor Roosevelt
 ```
 
 --- 
