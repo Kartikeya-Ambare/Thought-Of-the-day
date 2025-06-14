@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-13**
+## 🗓️ Date: **2025-06-14**
 
 ### 💬 Today's Insight:
 ```
-> The unexamined life is not worth living. ❤️ - Socrates
+> You miss 100 percent of the shots you never take. ❤️ - Wayne Gretzky
 ```
 
 --- 
