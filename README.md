@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-15**
+## 🗓️ Date: **2025-06-16**
 
 ### 💬 Today's Insight:
 ```
-> Genius is one percent inspiration and ninety-nine percent perspiration. ❤️ - Thomas Edison
+> It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order. ❤️ - Dmitri Mendeleev
 ```
 
 --- 
