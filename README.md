@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-16**
+## 🗓️ Date: **2025-06-17**
 
 ### 💬 Today's Insight:
 ```
-> It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order. ❤️ - Dmitri Mendeleev
+> Love all, trust a few, do wrong to none. ❤️ - William Shakespeare
 ```
 
 --- 
