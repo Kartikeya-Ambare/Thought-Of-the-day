@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-17**
+## 🗓️ Date: **2025-06-18**
 
 ### 💬 Today's Insight:
 ```
-> Love all, trust a few, do wrong to none. ❤️ - William Shakespeare
+> To be, or not to be, that is the question. ❤️ - William Shakespeare
 ```
 
 --- 
