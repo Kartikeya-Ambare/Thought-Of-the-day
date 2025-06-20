@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-19**
+## 🗓️ Date: **2025-06-20**
 
 ### 💬 Today's Insight:
 ```
-> The process is more important than the results. And if you take care of the process, you will get the results. ❤️ - M.S. Dhoni
+> What is freedom of expression? Without the freedom to offend, it ceases to exist. ❤️ - Salman Rushdie
 ```
 
 --- 
