@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-20**
+## 🗓️ Date: **2025-06-21**
 
 ### 💬 Today's Insight:
 ```
-> What is freedom of expression? Without the freedom to offend, it ceases to exist. ❤️ - Salman Rushdie
+> The unexamined life is not worth living. ❤️ - Socrates
 ```
 
 --- 
