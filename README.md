@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-21**
+## 🗓️ Date: **2025-06-22**
 
 ### 💬 Today's Insight:
 ```
-> The unexamined life is not worth living. ❤️ - Socrates
+> The only thing we have to fear is fear itself. ❤️ - Franklin D. Roosevelt
 ```
 
 --- 
