@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-27**
+## 🗓️ Date: **2025-06-28**
 
 ### 💬 Today's Insight:
 ```
-> If not now, then when? If not you, then who? ❤️ - Kailash Satyarthi
+> Science is the poetry of reality. ❤️ - Richard Dawkins
 ```
 
 --- 
