@@ -38,4 +38,4 @@ jobs:
         run: |
           git diff --exit-code || (git add README.md && git commit -m "✨ Daily Thought Update: $(date +'%Y-%m-%d')" && git push)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}awsdas
