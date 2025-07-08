@@ -106,6 +106,6 @@ def update_readme():
     with open("README.md", "w") as f:
         f.write(new_content)
 
-if __name__ == "__main__":
-    update_readme()
+       if __name__ == "__main__":
+                     update_readme()
     print("README.md updated with new thought!")
